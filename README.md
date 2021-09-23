@@ -1,5 +1,5 @@
-# 2021-L.FIN-Face-Detection-Recognition-Project
-엘핀 안면인식 어플리케이션 개발 프로젝트
+# 2021-Face-Detection-Recognition-Project
+안면인식 어플리케이션 개발 프로젝트
 
 ================================================================
 
