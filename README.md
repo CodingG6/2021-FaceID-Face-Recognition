@@ -34,6 +34,8 @@
 3. Fine-tuning
 - [AI hub 한국인 얼굴 데이터](https://aihub.or.kr/aidata/73) 및 해외 유명인사 얼굴 사진으로 훈련
 
+[얼굴 추출](https://github.com/CodingG6/2021-FaceID-Face-Recognition/blob/main/supporting_materials/extraction.png)
+
 <br> 
 
 4. 모델 테스트
